@@ -38,8 +38,3 @@ public static final String API_KEY = "YOUR-API-KEY";
 ![screenshot_sky_blue_medium](https://user-images.githubusercontent.com/33213229/35278184-880c68a0-008c-11e8-9ec3-c7d0e6dc074a.png)
 ![screenshot_green_large](https://user-images.githubusercontent.com/33213229/35278192-8b7efa5c-008c-11e8-87eb-f1f426f1df96.png)
 
-
-
-[![google-play-badge](https://user-images.githubusercontent.com/33213229/55871467-a23b7000-5bc5-11e9-846e-93a2958f6253.png)](https://play.google.com/store/apps/details?id=com.soojeongshin.newsfeed.free)
-[![ic_launcher](https://user-images.githubusercontent.com/33213229/55873557-eda44d00-5bca-11e9-8272-50b56d971696.png)](https://play.google.com/store/apps/details?id=com.soojeongshin.newsfeed.free)
-
